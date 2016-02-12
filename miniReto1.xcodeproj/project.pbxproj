@@ -51,6 +51,7 @@
 		AD8F3C5F1C6D7C2800A817EF /* miniReto1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = miniReto1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AD8F3C631C6D7C2800A817EF /* miniReto1UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = miniReto1UITests.m; sourceTree = "<group>"; };
 		AD8F3C651C6D7C2800A817EF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ADFDED0B1C6D831700B598DD /* miniReto1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = miniReto1.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +108,7 @@
 				AD8F3C451C6D7C2800A817EF /* ViewController.m */,
 				AD8F3C471C6D7C2800A817EF /* Main.storyboard */,
 				AD8F3C4A1C6D7C2800A817EF /* Assets.xcassets */,
+				ADFDED0B1C6D831700B598DD /* miniReto1.playground */,
 				AD8F3C4C1C6D7C2800A817EF /* LaunchScreen.storyboard */,
 				AD8F3C4F1C6D7C2800A817EF /* Info.plist */,
 				AD8F3C3E1C6D7C2800A817EF /* Supporting Files */,
@@ -494,6 +496,7 @@
 				AD8F3C6A1C6D7C2800A817EF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		AD8F3C6B1C6D7C2800A817EF /* Build configuration list for PBXNativeTarget "miniReto1Tests" */ = {
 			isa = XCConfigurationList;
@@ -502,6 +505,7 @@
 				AD8F3C6D1C6D7C2800A817EF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		AD8F3C6E1C6D7C2800A817EF /* Build configuration list for PBXNativeTarget "miniReto1UITests" */ = {
 			isa = XCConfigurationList;
@@ -510,6 +514,7 @@
 				AD8F3C701C6D7C2800A817EF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
